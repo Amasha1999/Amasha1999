@@ -20,6 +20,11 @@
 
 - ⚡ Fun fact **"Life is too short to manually update dependencies."**
 
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=amasha1999&label=Profile%20views&color=0e75b6&style=flat" alt="amasha1999" /> </p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amasha1999" alt="amasha1999" /></a> </p> 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
