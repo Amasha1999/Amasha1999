@@ -2,12 +2,12 @@
 <h3 align="center">An undergraduate from NSBM Green University</h3>
 
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amasha1999&label=Profile%20views&color=0e75b6&style=flat" alt="amasha1999" /> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/d3/95/e4d395849317f98f2a418c0e10182b0d.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amasha1999" alt="amasha1999" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amasha1999&label=Profile%20views&color=0e75b6&style=flat" alt="amasha1999" /> </p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amasha1999" alt="amasha1999" /></a> </p> 
 
 - 🔭 I’m currently working on **C | HTML | Javascript | JS & Express | PHP | Adobe Ps | JAVA**
 
