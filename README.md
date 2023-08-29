@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amasha Sewwandi</h1>
 <h3 align="center">An undergraduate from NSBM Green University</h3>
 
-<img align="right" alt="Coding"width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/d3/95/e4d395849317f98f2a418c0e10182b0d.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amasha1999&label=Profile%20views&color=0e75b6&style=flat" alt="amasha1999" /> </p>
