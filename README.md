@@ -2,7 +2,7 @@
 <h3 align="center">An undergraduate from NSBM Green University</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/d3/95/e4d395849317f98f2a418c0e10182b0d.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 
 
