@@ -30,7 +30,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/amasha sewwandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amasha sewwandi" height="30" width="40" /></a>
 <a href="https://fb.com/amasha sewwandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amasha sewwandi" height="30" width="40" /></a>
-<a href="https://instagram.com/amaa99716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amaa99716" height="30" width="40" /></a>
+<a href="https://instagram.com/amaa99716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amaa99716" height="30" width="40" /> <a href="https://www.hackerrank.com/amasha sewwandi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amasha sewwandi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
