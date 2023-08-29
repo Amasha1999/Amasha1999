@@ -42,4 +42,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amasha1999&" alt="amasha1999" /></p
                                                                                                                      
-[![An image of @alasewwandi's Holopin board, which is a link to view their full Holopin profile](https://holopin.me/alasewwandi)](https://holopin.io/@alasewwandi)                                                                                                                 
+[![An image of @alasewwandi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alasewwandi)](https://holopin.io/@alasewwandi)                                                                                                               
