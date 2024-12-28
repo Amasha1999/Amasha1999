@@ -17,6 +17,8 @@
 - 💬 Ask me about **HTML | Javascript | Flutter**
 
 - 📫 How to reach me **amasewwandi716@gmail.com**
+  
+- 📫 How to Follow me **(https://uxfol.io/p/cb4db715/about)**
 
 - ⚡ Fun fact **"Life is too short to manually update dependencies."**
 
